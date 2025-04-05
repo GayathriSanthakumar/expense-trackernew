@@ -4,9 +4,17 @@ import 'package:expense_tracker1/screens/home/views/main_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatelessWidget {
+class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  var widgetList=[
+    MainScreen(),
+  ];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -16,6 +24,9 @@ class HomeScreen extends StatelessWidget {
           top:Radius.circular(30)
         ),
         child:BottomNavigationBar(
+          onTap:(value) {
+
+          },
         backgroundColor:Color.fromARGB(255, 255, 255, 255),
         showSelectedLabels: false,
         showUnselectedLabels: false,
