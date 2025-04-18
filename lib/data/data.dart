@@ -28,5 +28,12 @@ List<Map<String,dynamic>> transactionsData=[
     'name':'Travel',
     'totalAmount': '-₹250.00',
     'date':'Yesterday',
+  },
+   {
+    'icon':const FaIcon(FontAwesomeIcons.hotel,color: Color.fromARGB(255, 255, 255, 255)),
+     'color':Color.fromRGBO(183, 37, 37, 1),
+    'name':'Hotel',
+    'totalAmount': '-₹250.00',
+    'date':'Yesterday',
   }
 ];

@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 
 class MainScreen extends StatelessWidget {
   const MainScreen({super.key});
-
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -158,7 +157,7 @@ class MainScreen extends StatelessWidget {
                         width: 25,
                         height: 25,
                         decoration: BoxDecoration(
-                          color: Color.fromARGB(162, 255, 255, 255),
+                          color: Color.fromARGB(139, 255, 255, 255),
                           shape: BoxShape.circle
                         ),
                         child: Center(
