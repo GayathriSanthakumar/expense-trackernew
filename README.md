@@ -1,7 +1,6 @@
 #  Expense Tracker App
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/67237d01-1d67-4721-9647-56b98d366c17" />
+<img width="461" alt="Image" src="https://github.com/user-attachments/assets/67237d01-1d67-4721-9647-56b98d366c17" />       <img width="461" alt="Image" src="https://github.com/user-attachments/assets/b7c4c72f-49d9-4e33-a353-3f3074a9205e" />
 
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/b7c4c72f-49d9-4e33-a353-3f3074a9205e" />
 
 <img width="461" alt="Image" src="https://github.com/user-attachments/assets/d16d116c-12fd-4c83-b4bb-d6bdba81365f" />
 
